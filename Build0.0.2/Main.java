@@ -31,7 +31,7 @@ public class Main extends Application {
   Label ylabel;
   boolean dataToReturn;
   VBox layout;
-
+  //if Error upon debuging please go read README.md
   public static void main(String[] args) {
     launch(args);
   }
